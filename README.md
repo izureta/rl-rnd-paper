@@ -1,4 +1,4 @@
-# PPO + RND (Burda et al., arXiv:1810.12894)
+# PPO + RND
 
 Minimal PPO with Random Network Distillation on two custom sparse-reward grids. Compares against PPO-only.
 
