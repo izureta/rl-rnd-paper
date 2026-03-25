@@ -1,0 +1,4 @@
+gymnasium[classic_control,atari]>=1.0.0
+numpy>=1.24
+torch>=2.0
+matplotlib>=3.7
